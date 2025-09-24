@@ -17,6 +17,6 @@ Welcome to **Invite Your Lover for a Date**, a charming and simple website to se
 
 ## Demo 🎥
 
-= https://astafofo.github.io/Go-out-with-me/
+https://astafofo.github.io/Go-out-with-me/
 
 ---
